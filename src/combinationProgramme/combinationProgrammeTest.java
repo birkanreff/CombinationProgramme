@@ -33,7 +33,7 @@ public class combinationProgrammeTest {
 			carpim3 *= i;
 			
 		}
-		System.out.println( n + " elemanlı bir kümenin " + r + "elemanlı alt kümelerinin sayısı: " + carpim1 /(carpim2 * carpim3));
+		System.out.println( n + " elemanlı bir kümenin " + r + " elemanlı alt kümelerinin sayısı: " + carpim1 /(carpim2 * carpim3));
 		
 				
 		
